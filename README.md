@@ -7,10 +7,12 @@ I'm a Software Engineer, Musician, and I'm passionate about sharing knowledge.
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing ikechigreat@gmail.com. 
+- 💡 Fun fact: 
+    - I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+    - I'm currently studying at Brigham Young University Idaho [BYUi](https://www.byui.edu/) Class of 2025.
+- 🌱 I’m currently learning Python and I write Express and NestJS for backend Stacks.
+- 😊 I’m Open to work with the above technologies,hackathons, and entry-level opportunities for other technologies.
+- 💼 Job interests: Software Engineer (Junior level, Mid-level).
+- 📫 You can [view my resume](https://drive.google.com/file/d/1lwp4Ktp8gK5MQVVzJuQ3PhkGa3SfW8gy/view?usp=sharing) and contact me by emailing ikechigreat@gmail.com. 
 
 ---
